@@ -13,17 +13,15 @@ I am **Ashutosh Kumar** working as **Data Scientist @ [Volkswagen IT Services](h
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about **Machine Learning**
 - 📫 How to reach me:<br>
-  <a href="https://www.linkedin.com/in/ashutosh--kumar/">
-  <img align="center" alt="Falguni @LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-  <a href="mailto:ashutoshind2017@outlook.com">
-  <img align="center" alt="Falguni @Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Ashutosh27ind/Ashutosh27ind)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ashutosh--kumar//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/ashutoshk2//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/4235469/ashu-kr)  
+  
+  
 
 <!-- GitHub stats -->
 <b>⚡ My GitHub Statistics</b>  
 
-[![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=Ashutosh27ind&show_icons=true&theme=gotham&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh27ind&layout=compact&theme=gotham&hide=html&langs_count=7&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=Ashutosh27ind&show_icons=true&theme=gotham&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh27ind&&theme=gotham&hide=html&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
 
 <hr>
 
