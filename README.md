@@ -8,7 +8,7 @@ I am **Ashutosh Kumar** working as **Data Scientist @ [Volkswagen Group Solution
 <!-- GitHub stats -->
 <b>⚡ About Me</b>  
 
-- 🔭 I’m currently working as **Data Scientist @ Volkswagen IT Services India Pvt Ltd**
+- 🔭 I’m currently working as **Data Scientist @ Volkswagen Group Solutions India Pvt Ltd**
 - 🌱 I’m currently learning **DevOps** and **Data Engineering**
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about **Machine Learning** and **Data Science**
