@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-I am **Ashutosh Kumar** working as **Data Scientist @ [Volkswagen Group Solutions India Pvt Ltd](https://www.vwits.in/)**. I am an Experienced **Data Scientist** with a demonstrated history of working in the information technology and services industry. **Skilled in SQL, Python, Machine Learning, Tableau, Big Data to name a few tech.** Strong engineering professional with a **Master of Science(MSc)** focused in Data Science from [Liverpool John Moores University](https://www.ljmu.ac.uk/).
+I am **Ashutosh Kumar** working as **Data Scientist @ [Volkswagen Group Solutions India Pvt Ltd](https://www.vwits.in/)**. I am an Experienced **Data Scientist** with a demonstrated history of working in the information technology and services industry. **Skilled in SQL, Python, Machine Learning, Tableau, Big Data to name a few tech.** Strong engineering professional with a **Master of Science(MSc)** degree focused in Data Science from [Liverpool John Moores University](https://www.ljmu.ac.uk/).
 
 ---
 <!-- GitHub stats -->
