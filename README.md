@@ -8,7 +8,7 @@ I am **Ashutosh Kumar** currently working as **Senior Data Scientist @ [Thomson 
 <!-- GitHub stats -->
 <b>⚡ About Me</b>  
 
-- 🔭 I’m currently working as **Data Scientist @ Volkswagen Group Solutions India Pvt Ltd**
+- 🔭 I’m currently working as **Senior Data Scientist @ Thomson Reuters**
 - 🌱 I’m currently learning **DevOps** and **Data Engineering**
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about **Machine Learning** and **Data Science**
