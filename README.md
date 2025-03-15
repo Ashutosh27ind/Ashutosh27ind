@@ -1,4 +1,4 @@
-![Banner Image](https://github.com/Ashutosh27ind/Ashutosh27ind/blob/main/download_new.png)
+![Banner Image](https://github.com/Ashutosh27ind/Ashutosh27ind/blob/main/IMG_20230913_183739.jpg)
 
 ## Hi there 👋
 
