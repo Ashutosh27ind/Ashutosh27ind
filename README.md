@@ -9,9 +9,9 @@ I am **Ashutosh Kumar** currently working as **Senior Data Scientist @ [Thomson 
 <b>⚡ About Me</b>  
 
 - 🔭 I’m currently working as **Senior Data Scientist @ Thomson Reuters**
-- 🌱 I’m currently learning **DevOps** and **Data Engineering**
-- 👯 I’m looking to collaborate on open source/commercial projects
-- 💬 Ask me about **Machine Learning** and **Data Science**
+- 🌱 I’m currently learning **DevOps** and **AI Agents**
+- 👯 I’m looking to collaborate on open source projects
+- 💬 Ask me about **Machine Learning**, **Data Science** and **Generative AI**
 - 📫 How to reach me:<br>
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ashutosh27ind)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ashutosh--kumar//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ashutoshk2/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/4235469/ashu-kr)  
   
