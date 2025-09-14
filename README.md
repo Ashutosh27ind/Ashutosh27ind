@@ -1,34 +1,57 @@
-![Banner Image](https://github.com/Ashutosh27ind/Ashutosh27ind/blob/main/network-4851119_1920.jpg)
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/Ashutosh27ind/Ashutosh27ind/blob/main/network-4851119_1920.jpg" alt="Banner" width="100%" />
+</p>
 
 ## Hi there 👋
 
-I am **Ashutosh Kumar** currently working as **Senior Data Scientist @ [Thomson Reuters](https://www.thomsonreuters.com/en.html)**. I am an Experienced **Data Scientist** with a demonstrated history of working in the information technology and services industry. **Skilled in SQL, Python, Machine Learning, Tableau, Big Data to name a few tech.** Strong engineering professional with a **Master of Science(MSc)** degree focused in Data Science from [Liverpool John Moores University](https://www.ljmu.ac.uk/).
+I’m Ashutosh Kumar — Associate Director in Emerging Tech @ [HSBC](https://www.hsbc.com/). I build and apply Generative AI and data solutions for banking and enterprise use-cases.
+
+I’m a Data Scientist with an MSc (Data Science) from Liverpool John Moores University. Skilled in Python, SQL, Machine Learning and Generative AI.
 
 ---
-<!-- GitHub stats -->
-<b>⚡ About Me</b>  
 
-- 🔭 I’m currently working as **Senior Data Scientist @ Thomson Reuters**
-- 🌱 I’m currently learning **DevOps** and **AI Agents**
-- 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about **Machine Learning**, **Data Science** and **Generative AI**
-- 📫 How to reach me:<br>
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ashutosh27ind)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ashutosh--kumar//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ashutoshk2/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/4235469/ashu-kr)  
-  
-  
+<b>⚡ About Me</b>
 
-<!-- GitHub stats -->
-<b>⚡ My GitHub Statistics</b>  
+- 🔭 Current: **Associate Director — Emerging Tech @ HSBC**
+- 🌱 Learning: **DevOps** and **AI Agents**
+- 👯 Open to: collaboration on GenAI and data science projects
+- 💬 Ask me about: Machine Learning, Data Science, Generative AI
 
-[![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=Ashutosh27ind&show_icons=true&theme=gotham&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh27ind&&theme=gotham&hide=html&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
+- 📫 Contact: 
+  [![GitHub](https://img.shields.io/badge/GitHub-Ashutosh27ind-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashutosh27ind) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashutosh--Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh--kumar/) 
+  [![StackOverflow](https://img.shields.io/badge/StackOverflow-ashu--kr-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/4235469/ashu-kr) 
+  <!-- email placeholder: replace example@example.com with real address if desired -->
+  [![Email](https://img.shields.io/badge/Email-contact-0072C6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:example@example.com)
 
-<hr>
 
-<p align="Center"> 
-  <b> ⚡ Current Profile Visitor Count</b><br><br>
-  <img src="https://profile-counter.glitch.me/Ashutosh27ind/count.svg"/>
+<!-- Skills badges -->
+<p>
+  <img src="https://img.shields.io/badge/Python-3.11-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-DB0011?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-F5A623?style=flat&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative%20AI-OpenAI-412991?style=flat" />
+  <img src="https://img.shields.io/badge/DevOps-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 </p>
+
+---
+
+
+<!-- GitHub stats -->
+<b>⚡ My GitHub Statistics</b>
+
+[![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=Ashutosh27ind&show_icons=true&theme=gotham&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh27ind&&theme=gotham&hide=html&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <hr>
 
-Last Edited on: 26/10/2021
+<p align="center">
+  <b>⚡ Current Profile Visitor Count</b><br>
+  ![Profile Views](https://hits.dwyl.com/Ashutosh27ind/Ashutosh27ind.svg)
+  <br><sub>Last recorded: 7400</sub>
+</p>
+
+<hr>
+
+Last Edited on: 14/09/2025
