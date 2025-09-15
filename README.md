@@ -25,7 +25,6 @@ I’m a Data Scientist with an MSc (Data Science) from Liverpool John Moores Uni
   <!-- email placeholder: replace example@example.com with real address if desired -->
   [![Email](https://img.shields.io/badge/Email-contact-0072C6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:example@example.com)
 
-
 <!-- Skills badges -->
 <p>
   <img src="https://img.shields.io/badge/Python-3.11-3776AB?style=flat&logo=python&logoColor=white" />
@@ -37,20 +36,11 @@ I’m a Data Scientist with an MSc (Data Science) from Liverpool John Moores Uni
 
 ---
 
-
 <!-- GitHub stats -->
 <b>⚡ My GitHub Statistics</b>
 
 [![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=Ashutosh27ind&show_icons=true&theme=gotham&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh27ind&&theme=gotham&hide=html&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<hr>
-
-<p align="center">
-  <b>⚡ Current Profile Visitor Count</b><br>
-  ![Profile Views](https://hits.dwyl.com/Ashutosh27ind/Ashutosh27ind.svg)
-  <br><sub>Last recorded: 7400</sub>
-</p>
 
 <hr>
 
