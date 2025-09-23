@@ -14,7 +14,7 @@ I’m a Data Scientist with an MSc (Data Science) from Liverpool John Moores Uni
 <b>⚡ About Me</b>
 
 - 🔭 Current: **Associate Director — Emerging Tech @ HSBC**
-- 🌱 Learning: **DevOps** and **AI Agents**
+- 🌱 Learning: **Quantum** and **AI Agents**
 - 👯 Open to: collaboration on GenAI and data science projects
 - 💬 Ask me about: Machine Learning, Data Science, Generative AI
 
@@ -45,3 +45,4 @@ I’m a Data Scientist with an MSc (Data Science) from Liverpool John Moores Uni
 <hr>
 
 Last Edited on: 14/09/2025
+
