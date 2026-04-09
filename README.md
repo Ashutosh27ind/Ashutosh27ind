@@ -5,7 +5,7 @@
 
 ## Hi there 👋
 
-I’m Ashutosh Kumar — Associate Director in Emerging Tech @ [HSBC](https://www.hsbc.com/). I build and apply Generative AI and data solutions for banking and enterprise use-cases.
+I’m Ashutosh Kumar — Associate Director @ [HSBC](https://www.hsbc.com/). I build and apply Generative AI and data solutions for banking and enterprise use-cases.
 
 I’m a Data Scientist with an MSc (Data Science) from Liverpool John Moores University. Skilled in Python, SQL, Machine Learning and Generative AI.
 
